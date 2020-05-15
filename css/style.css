@@ -7,3 +7,6 @@ html {
   header {
        background-color: rgb(233, 134, 22);
   }
+  section {
+      background-color: tomato;
+  }

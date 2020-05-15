@@ -1,3 +1,9 @@
 html {
     box-sizing: initial;
 }
+ body {
+     background-color: rgb(197, 43, 43);
+ }
+  header {
+       background-color: rgb(43, 167, 43);
+  }
